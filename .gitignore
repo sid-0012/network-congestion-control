@@ -1,3 +1,10 @@
 key1.pem
 
 *.pdf
+
+myenv/
+
+.DS_Store
+.ipynb_checkpoints/
+
+data/
